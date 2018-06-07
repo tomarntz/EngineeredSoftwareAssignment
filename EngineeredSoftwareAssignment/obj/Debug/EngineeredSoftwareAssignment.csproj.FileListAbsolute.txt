@@ -1,0 +1,6 @@
+C:\Users\23821\Desktop\EngineeredSoftwareAssignment\EngineeredSoftwareAssignment\bin\Debug\EngineeredSoftwareAssignment.exe.config
+C:\Users\23821\Desktop\EngineeredSoftwareAssignment\EngineeredSoftwareAssignment\bin\Debug\EngineeredSoftwareAssignment.exe
+C:\Users\23821\Desktop\EngineeredSoftwareAssignment\EngineeredSoftwareAssignment\bin\Debug\EngineeredSoftwareAssignment.pdb
+C:\Users\23821\Desktop\EngineeredSoftwareAssignment\EngineeredSoftwareAssignment\obj\Debug\EngineeredSoftwareAssignment.csprojResolveAssemblyReference.cache
+C:\Users\23821\Desktop\EngineeredSoftwareAssignment\EngineeredSoftwareAssignment\obj\Debug\EngineeredSoftwareAssignment.exe
+C:\Users\23821\Desktop\EngineeredSoftwareAssignment\EngineeredSoftwareAssignment\obj\Debug\EngineeredSoftwareAssignment.pdb
